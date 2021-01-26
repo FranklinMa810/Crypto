@@ -1,6 +1,7 @@
 # Reading List
 
 * [100% real understand] Marshall, Ben R., Nhut Nick Hoang Nguyen, and Nuttawat Visaltanachoti. "Bitcoin liquidity." Nuttawat, Bitcoin Liquidity (May 31, 2019) (2019).
+* [100% real understand]Alexander Brauneis, Roland Mestel, Erik Theissen, What drives the liquidity of cryptocurrencies? A long-term analysis, Finance Research Letters, 2020.
 * [0% real understand] Yue, Wei, Sijia Zhang, and Qiang Zhang. "Asymmetric news effects on cryptocurrency liquidity: an Event study perspective." Finance Research Letters (2020): 101799.
 * [25% real understand] Manahov, Viktor. "Cryptocurrency liquidity during extreme price movements: is there a problem with virtual money?." Quantitative Finance (2020): 1-20.
 * [0% real understand] Donier, Jonathan, and Jean-Philippe Bouchaud. "Why do markets crash? Bitcoin data offers unprecedented insights." PloS one 10.10 (2015): e0139356.
@@ -20,6 +21,14 @@ Conclusion:
 
 Methodolodgy:
 regression, regression, regression (with variables and Granger test, see variable details in papers). Note that some of them include interaction variable.
+
+2. **Alexander Brauneis, Roland Mestel, Erik Theissen, What drives the liquidity of cryptocurrencies? A long-term analysis, Finance Research Letters, 2020.**
+Methodology:
+Abdi-Ranaldo spread estimator from hourly transactions data and compare liquidity across cryptocurrencies and exchanges. 
+
+Conclusion: 
+* ???Bitcoin is the most liquid cryptocurrency and Coinbase Pro is the most liquid exchange.
+* **1) Volatility of cryptocurrency returns, 2)the dollar trading volume and 3)the number of transactions** are the most important determinants of liquidity while general financial market variables have no explanatory power.
 
 # One paper summary
 1. Title/ Abstract/ Figures;
